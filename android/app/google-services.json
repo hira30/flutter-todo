@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498297007782",
+    "project_id": "flutter-todo-ae4c6",
+    "storage_bucket": "flutter-todo-ae4c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498297007782:android:5659ad1963fb8ce182ce67",
+        "android_client_info": {
+          "package_name": "com.hirahiraapp.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjXJsw8tVWBA48w7hXYfcNnB3V-SLaEQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
